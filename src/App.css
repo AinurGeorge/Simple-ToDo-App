@@ -23,3 +23,12 @@
 }
 
 
+
+/* here is some css for todo component */
+
+.todo {
+  align-items: center;
+  display: flex;
+  font-size: 18px;
+  justify-content: space-between;
+}
